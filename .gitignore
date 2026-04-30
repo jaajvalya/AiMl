@@ -1,0 +1,9 @@
+# Ignore environment variable files
+.env
+.env.*
+*.env
+
+# Ignore the Python virtual environment folder
+aiml/
+venv/
+.vscode/

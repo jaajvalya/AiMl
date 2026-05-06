@@ -1,0 +1,13 @@
+Product A is priced at $110. It is a smart home device with voice control capabilities in the Electronics category. Supplied by SupplierX. Stock: 50 units. Last verified: 2024-01-10.
+
+Product B is priced at $200. It is a high-end professional gadget in the Premium Devices category. Supplied by SupplierZ. Stock: 30 units. Last verified: 2024-01-03.
+
+Product C is priced at $75. It is a portable USB-C charger with fast charge support in the Accessories category. Supplied by SupplierX. Stock: 200 units. Last verified: 2024-01-08.
+
+Product D is priced at $925. It is an enterprise-grade solution with dedicated support in the Enterprise category. Supplied by SupplierW. Stock: 5 units. Last verified: 2024-01-09.
+
+Product E is priced at $45. It is a budget-friendly everyday option in the Budget category. Supplied by SupplierX. Stock: 150 units. Last verified: 2024-01-04.
+
+Product F is priced at $300. It is a mid-range device with premium features in the Mid-range category. Supplied by SupplierY. Stock: 20 units. Last verified: 2024-01-06.
+
+Product H is priced at $50. It is an entry level device for first-time users in the Budget category. Supplied by SupplierZ. Stock: 100 units. Last verified: 2024-01-07.

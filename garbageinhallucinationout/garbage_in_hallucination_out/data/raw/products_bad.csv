@@ -1,0 +1,16 @@
+product_id,product_name,price,category,description,stock,supplier,last_updated
+P001,Product A,100,Electronics,,50,SupplierX,2024-01-01
+P001,Product A,120,Electronics,Smart home device,50,SupplierX,2024-01-05
+P001,Product A,115,Electronics,Smart Device,null,SupplierY,2024-01-10
+P002,Product B,,Premium,,30,SupplierZ,2024-01-01
+P002,ProductB,200,Premium Devices,High-end gadget,30,SupplierZ,2024-01-03
+P003,Product C,75,Accessories,Portable charger,null,SupplierX,
+P003,Product-C,75,accessories,portable charger,200,,2024-01-08
+P004,Product D,999,Enterprise,Enterprise solution,5,SupplierW,2024-01-02
+P004,Product D,850,Enterprise,,5,SupplierW,2024-01-09
+P005,Product E,45,Budget,Budget pick,null,null,2024-01-01
+P005,product e,45,,Budget-friendly option,150,SupplierX,2024-01-04
+P006,Product F,300,Mid-range,,20,SupplierY,
+P007,,,,,,,
+P008,Product H,50,Budget,Entry level,,SupplierZ,2024-01-07
+P008,Product H,50,Budget,Entry level device,100,SupplierZ,2024-01-07

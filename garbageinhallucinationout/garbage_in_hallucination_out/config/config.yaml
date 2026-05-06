@@ -1,0 +1,35 @@
+llm:
+  provider: "openai"          # "openai" | "ollama"
+  model: "gpt-3.5-turbo"      # For OpenAI; or "llama3" / "mistral" for Ollama
+  ollama_base_url: "http://localhost:11434"
+  temperature: 0.0
+  max_tokens: 512
+
+embeddings:
+  provider: "openai"          # "openai" | "ollama"
+  model: "text-embedding-3-small"
+  ollama_model: "nomic-embed-text"
+
+vector_store:
+  type: "faiss"
+  index_path: "data/faiss_index"
+
+data:
+  raw_csv: "data/raw/products_bad.csv"
+  clean_csv: "data/clean/products_clean.csv"
+  raw_knowledge: "data/raw/knowledge_bad.txt"
+  clean_knowledge: "data/clean/knowledge_clean.txt"
+
+evaluation:
+  test_queries:
+    - "What is the price of Product A?"
+    - "Tell me about Product B."
+    - "Is Product G available?"
+    - "What category is Product C in?"
+    - "Which products are in the Budget category?"
+    - "Who supplies Product D?"
+    - "What is the stock level of Product E?"
+
+logging:
+  level: "INFO"
+  log_file: "logs/app.log"

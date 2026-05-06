@@ -1,0 +1,8 @@
+product_id,product_name,price,category,description,stock,supplier,last_updated,source,verified
+P001,Product A,110,Electronics,Smart home device with voice control,50,SupplierX,2024-01-10,golden_record,true
+P002,Product B,200,Premium Devices,High-end professional gadget,30,SupplierZ,2024-01-03,golden_record,true
+P003,Product C,75,Accessories,Portable USB-C charger with fast charge,200,SupplierX,2024-01-08,golden_record,true
+P004,Product D,925,Enterprise,Enterprise-grade solution with support,5,SupplierW,2024-01-09,golden_record,true
+P005,Product E,45,Budget,Budget-friendly everyday option,150,SupplierX,2024-01-04,golden_record,true
+P006,Product F,300,Mid-range,Mid-range device with premium features,20,SupplierY,2024-01-06,golden_record,true
+P008,Product H,50,Budget,Entry level device for first-time users,100,SupplierZ,2024-01-07,golden_record,true
